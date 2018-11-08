@@ -1,0 +1,118 @@
+[
+  {
+    "contestant_id": 123456789,
+    "stats": [
+      {
+        "type": "FkfoulLost",
+        "value": 47.3
+      },
+      {
+        "type": "possessionpercentage",
+        "value": 70
+      },
+      {
+        "type": "wongoals",
+        "value": 24
+      },
+      {
+        "type": "accuratePass",
+        "value": 24.2
+      },
+      {
+        "type": "goals",
+        "value": 2
+      },
+      {
+        "type": "wonCorners",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "contestant_id": 987654321,
+    "stats": [
+      {
+        "type": "FkfoulLost",
+        "value": 28.1
+      },
+      {
+        "type": "possessionpercentage",
+        "value": 30
+      },
+      {
+        "type": "wongoals",
+        "value": 32
+      },
+      {
+        "type": "accuratePass",
+        "value": 62
+      },
+      {
+        "type": "goals",
+        "value": 3
+      },
+      {
+        "type": "wonCorners",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "contestant_id": 8801778361,
+    "stats": [
+      {
+        "type": "FkfoulLost",
+        "value": 23.1
+      },
+      {
+        "type": "possessionpercentage",
+        "value": 60
+      },
+      {
+        "type": "wongoals",
+        "value": 22
+      },
+      {
+        "type": "accuratePass",
+        "value": 82
+      },
+      {
+        "type": "goals",
+        "value": 9
+      },
+      {
+        "type": "wonCorners",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "contestant_id": 7396370024,
+    "stats": [
+      {
+        "type": "FkfoulLost",
+        "value": 26.8
+      },
+      {
+        "type": "possessionpercentage",
+        "value": 80
+      },
+      {
+        "type": "wongoals",
+        "value": 28
+      },
+      {
+        "type": "accuratePass",
+        "value": 82
+      },
+      {
+        "type": "goals",
+        "value": 13
+      },
+      {
+        "type": "wonCorners",
+        "value": 8
+      }
+    ]
+  }
+]
